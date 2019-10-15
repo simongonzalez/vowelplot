@@ -1,0 +1,12 @@
+name: shinyvowelplot
+title: shinyvowelplot
+username:
+account: phoneapps
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1329277
+bundleId: 2500856
+url: https://phoneapps.shinyapps.io/shinyvowelplot/
+when: 1571112817.88745
+asMultiple: FALSE
+asStatic: FALSE
